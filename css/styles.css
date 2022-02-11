@@ -1,0 +1,38 @@
+.testimonial-item {
+    max-width: 18rem;
+}
+
+.testimonials {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.features-icons {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.call-to-action{
+    position: relative;
+    background: url('/images/let_code.jpg') no-repeat center center;
+    background-size: cover;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    opacity: 0.8;
+}
+
+header.masthead {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    position: relative;
+    background-size: cover;
+    background: url('/images/Coding_Becomes_Criminal.jpg') no-repeat center center;
+    
+}
+footer.footer{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.person{
+    width: 150px;
+}
